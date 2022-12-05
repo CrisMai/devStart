@@ -1,0 +1,12 @@
+Variável
+
+Uma variável é usada para armazenar informações para que você possa usá-las e manipulá-las
+posteriormente.
+
+
+Operações com variáveis
+
+A primeira vez que você define uma variável, você deve defini-lá com let.
+Da próxima vez que você for usar essa variável, você não deve mais usar let. Basta
+usar diretamente a variável pelo seu nome.
+
