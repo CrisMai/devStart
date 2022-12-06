@@ -11,3 +11,11 @@ Um parâmetro é uma variável que uma função recebe.
 Para chamar uma função, você deve começar com o nome dela e então inserir, 
 entre parênteses, o valor que deseja passar como parâmetro.
 
+Corpo da função
+
+Método trim() nos permite fazer uma nova cópia de uma string, removendo os espaços 
+iniciais e finais.
+                Ex: function pegueEmail(email) {
+                        return email.trim()
+                    }
+
