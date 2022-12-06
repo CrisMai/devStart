@@ -1,17 +1,17 @@
 
-Funções
+-------- Funções ---------
 
 É um pedaço de código reutilizável que executa alguma lógica e fornece um resultado.
 A palavra-chave return permite que a função forneça o resultado de sua computação.
 
 
-Parâmetros em Funções
+-------- Parâmetros em Funções --------
 
 Um parâmetro é uma variável que uma função recebe.
 Para chamar uma função, você deve começar com o nome dela e então inserir, 
 entre parênteses, o valor que deseja passar como parâmetro.
 
-Corpo da função
+--------- Corpo da função ---------
 
 Método trim() nos permite fazer uma nova cópia de uma string, removendo os espaços 
 iniciais e finais.
@@ -19,7 +19,7 @@ iniciais e finais.
                         return email.trim()
                     }
 
-Reatribuindo valor à variável
+-------- Reatribuindo valor à variável ---------
 
 Para alterar a variável, você deve reatribuir essa variável a ela mesma
 com uma chamada de função.

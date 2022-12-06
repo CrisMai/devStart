@@ -1,0 +1,9 @@
+
+-------- Expressão -----------
+
+Uma expressão é a combinação de uma ou mais variáveis, funções
+e operadores que a linguagem de programação computa para produzir 
+um valor.
+Ex: 5 + 4 é um exemplo de expressão que produz o valor 9.
+contador >= 10 é um exemplo de expressão que produz um
+booleano (V ou F).
