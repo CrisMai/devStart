@@ -19,3 +19,15 @@ iniciais e finais.
                         return email.trim()
                     }
 
+Reatribuindo valor à variável
+
+Para alterar a variável, você deve reatribuir essa variável a ela mesma
+com uma chamada de função.
+
+Ex:          function pegueNome(nome) {
+             let limpo = nome
+             limpo = limpo.toUpperCase()
+             limpo = limpo.trim()
+             return limpo
+            }
+
