@@ -1,0 +1,14 @@
+-------- Else ----------
+
+O código introduzido pela palavra-chave else trata todos os 
+outros casos que não são atendidos pela condicional if.
+
+O else só pode ser usado após uma condicional if. Ele não pode ser usado 
+sozinho.
+
+
+--------Else if ---------
+
+O par if else avalia dois cenários: a condição e a respectiva condição 
+oposta. Para lidar com outros cenários podemos usar o else if. O else if
+só pode ser usado após uma condicional if.
