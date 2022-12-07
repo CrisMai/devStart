@@ -1,0 +1,22 @@
+
+---------- Concatenação de strings ----------
+
+A concatenação consiste em unir duas ou mais strings, é 
+usado o operador de sinal +.
+A concaatenação também funciona para incorporar o conteudo
+de variáveis dentro da string.
+
+
+--------- Template strings -----------
+
+As strings definidas com o caractere de crase são chamadas de 
+template strings.
+
+
+---------- Interpolação de strings --------
+
+É um método para inserir variáveis ou expressões dentro de uma
+string. Os dois passos para interpolação são: criar uma template 
+string usando o caractere de crase. Ao redor do nome da variável, 
+inserir cifrão, ${e}.
+
