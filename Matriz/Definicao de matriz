@@ -36,3 +36,10 @@ novo comprimento da matriz.
 O método .includes() permite verificar se um item existe dentro de uma
 matriz. O retorno desse método é do tipo booleano.
 O .includes() só pode ser chamado a partir de uma matriz.
+
+
+-------- Método .join() -----------
+
+O método .join() converte a matriz em uma string. 
+Na string retornada pelo .join(), os caracteres passados como 
+parâmetro são inseridos entre itens da matriz. 
