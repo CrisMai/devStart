@@ -42,4 +42,13 @@ O .includes() só pode ser chamado a partir de uma matriz.
 
 O método .join() converte a matriz em uma string. 
 Na string retornada pelo .join(), os caracteres passados como 
-parâmetro são inseridos entre itens da matriz. 
+parâmetro são inseridos entre itens da matriz.
+
+
+--------Iteração -----------
+
+A iteração nos permite executar uma tarefa repetitiva para cada item 
+de uma matriz, sem a necessidade de escrever o mesmo código várias 
+vezes.
+Uma tarefa comum que podemos resolver com iteração é calcular a soma
+dos itens de uma matriz.
