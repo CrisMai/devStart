@@ -1,0 +1,15 @@
+
+-------- Matriz ------
+
+As matrizes são estruturas de dados. 
+Uma matriz é uma lista de valores.
+
+Para criar uma matriz vazia é usado colchetes []
+Os elementos dentro da matriz são chamados de itens.
+Cada item da matriz é separado por vírgula.
+
+
+------- Índice da matriz --------
+
+O índice é o número que representa a posição do item dentro da matriz.
+O índice da matriz começa sempre em 0.
