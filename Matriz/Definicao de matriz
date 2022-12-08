@@ -13,3 +13,12 @@ Cada item da matriz é separado por vírgula.
 
 O índice é o número que representa a posição do item dentro da matriz.
 O índice da matriz começa sempre em 0.
+
+
+-------- Comprimento da matriz ---------
+
+O .length é uma propriedade que retorna o comprimento(número de itens)
+da matriz.
+
+Para encontrar a posição (índice) do último item de uma matriz, use a 
+seguinte expressão: matriz[matriz.length - 1].
