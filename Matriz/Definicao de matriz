@@ -29,3 +29,10 @@ seguinte expressão: matriz[matriz.length - 1].
 O método .push() adiciona um item em uma matriz.
 O método .push() não retorna uma matriz, ele retorna um número que é o 
 novo comprimento da matriz.
+
+
+-------- Método .includes() ----------
+
+O método .includes() permite verificar se um item existe dentro de uma
+matriz. O retorno desse método é do tipo booleano.
+O .includes() só pode ser chamado a partir de uma matriz.
