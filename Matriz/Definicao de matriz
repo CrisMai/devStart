@@ -52,3 +52,10 @@ de uma matriz, sem a necessidade de escrever o mesmo código várias
 vezes.
 Uma tarefa comum que podemos resolver com iteração é calcular a soma
 dos itens de uma matriz.
+
+
+--------- Método .forEach() -------
+
+Permite iterar com os elementos da matriz.
+A função que você passar como parâmetro para o .forEach()
+será chamada para cada item da matriz.
