@@ -59,3 +59,14 @@ dos itens de uma matriz.
 Permite iterar com os elementos da matriz.
 A função que você passar como parâmetro para o .forEach()
 será chamada para cada item da matriz.
+
+
+--------- Callback ---------
+
+A função callback é passada como parâmetro do .forEach(), e será
+chamada automaticamente pela linguagem de programação.
+Podemos remover o nome da função callback, ela passa, então, ser 
+chamada de função anônima.
+
+O "for each" chama a função callback e passa a ela um item da matriz
+como parâmetro. Esse processo é repetido para todos os itens da matriz.
