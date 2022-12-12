@@ -86,3 +86,18 @@ de uma matriz.
 O resultado do .map() será uma outra matriz contendo o mesmo número de itens
 da matriz original, mas com a transformação aplicada.
 Ao usar o .map(), não esqueça de inserir o return.
+
+
+-------- Método Reduce() --------
+
+É usado para calcular um único valor a partir de uma matriz.
+Ao trabalhar com matrizes de números, os casos mais comuns de uso do reduce()
+são a soma e a multiplicação.
+O método reduce() aceita um redutor. O redutor é um callback que determina a 
+lógica usada para reduzir a matriz a um único número.
+
+O método reduce() recebe dois parâmetros: o redutor e o valor inicial.
+Para a redução por soma, o valor inicial é sempre zero.
+O redutor é uma função callback que recebe dois argumentos: total e atual.
+A variável total (acumulador) é atualizada a cada passo da redução. Na redução
+por soma, ela contém a soma acumulada dos itens anteriores da matriz, mais o nitem atual.
