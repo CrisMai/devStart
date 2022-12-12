@@ -77,3 +77,12 @@ como parâmetro. Esse processo é repetido para todos os itens da matriz.
 Use a iteração de matriz com .forEach() para calcular a soma dos itens 
 da matriz.
 O local correto para inicializar a variável da soma é antes do .forEach().
+
+
+-------- Mapa da matriz ---------
+
+O método .map() permite que você aplique uma transformação para cada item
+de uma matriz.
+O resultado do .map() será uma outra matriz contendo o mesmo número de itens
+da matriz original, mas com a transformação aplicada.
+Ao usar o .map(), não esqueça de inserir o return.
