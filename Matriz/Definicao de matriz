@@ -70,3 +70,10 @@ chamada de função anônima.
 
 O "for each" chama a função callback e passa a ela um item da matriz
 como parâmetro. Esse processo é repetido para todos os itens da matriz.
+
+
+-------- Soma com iteração de matriz -------
+
+Use a iteração de matriz com .forEach() para calcular a soma dos itens 
+da matriz.
+O local correto para inicializar a variável da soma é antes do .forEach().
