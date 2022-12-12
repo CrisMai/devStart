@@ -101,3 +101,8 @@ Para a redução por soma, o valor inicial é sempre zero.
 O redutor é uma função callback que recebe dois argumentos: total e atual.
 A variável total (acumulador) é atualizada a cada passo da redução. Na redução
 por soma, ela contém a soma acumulada dos itens anteriores da matriz, mais o nitem atual.
+
+
+------- Redução por multiplicação -------
+
+Na redução de matriz por multiplicação, usamos um valor inicial igual a 1.
