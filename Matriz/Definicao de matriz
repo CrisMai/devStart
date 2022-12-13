@@ -43,6 +43,11 @@ Ex: function adicionarNotas(notas, nota) {
     return notas
 }
 
+Ex 2: function adicionarBanana(itens) {
+    itens.push("Banana")
+    return itens
+}
+
 -------- Método .includes() ----------
 
 O método .includes() permite verificar se um item existe dentro de uma
@@ -71,6 +76,11 @@ dos itens de uma matriz.
 Permite iterar com os elementos da matriz.
 A função que você passar como parâmetro para o .forEach()
 será chamada para cada item da matriz.
+
+Ex: let usuarios = ["Gustavo", "Bianca, "Marcelo"]
+    usuarios.forEach(function(usuario) {
+        console.log(usuario)
+    })
 
 
 --------- Callback ---------
@@ -105,6 +115,13 @@ Ex: function obterNotasAumentadasEm2(notas) {
     })
 }
 
+Ex 2: function nomesEmMinusculas(nomes) {
+    return nomes.map(function(nome) {
+    return nome.toLowerCase()
+ })
+}
+
+
 -------- Método Reduce() --------
 
 É usado para calcular um único valor a partir de uma matriz.
@@ -129,3 +146,15 @@ Ex: function obterSomaDasNotas(notas) {
 ------- Redução por multiplicação -------
 
 Na redução de matriz por multiplicação, usamos um valor inicial igual a 1.
+
+
+------- Matriz de strings ----------
+
+As matrizes de strings são aquelas cujos itens são dados do tipo string.
+O funcionamento desse tipo de matriz é semelhante ao das matrizes de números.
+
+
+------- Métodos de matriz ------
+
+Os métodos .forEach(), .includes(), .join(), .map() podem ser usados em matrizes 
+de strings.
