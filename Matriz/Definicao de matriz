@@ -173,3 +173,11 @@ O operador de negação (!) forneceo oposto de uma variável booleana.
 !true  retorna false.
 !false retorna true.
 
+
+------- Operadores lógicos e (&&) ou (||) ---------
+
+Os operadores permitem comparar duas expressões.
+O operador lógico && só retorna true quando as duas expressões 
+forem verdadeiras.
+O operador lógico || retorna true quando pelo menos uma das expressões
+é verdadeira.
