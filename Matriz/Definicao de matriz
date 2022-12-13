@@ -158,3 +158,10 @@ O funcionamento desse tipo de matriz é semelhante ao das matrizes de números.
 
 Os métodos .forEach(), .includes(), .join(), .map() podem ser usados em matrizes 
 de strings.
+
+
+------- Strings com caracteres especiais ---------
+
+Para incluir aspas simples, aspas duplas ou caractere de crase dentro de uma string
+você pode usar o caractere de escape (\).
+O caractere de escape deve ser incluído antes do caractere que você deseja incluir.
