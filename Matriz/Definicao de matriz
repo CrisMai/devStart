@@ -165,3 +165,11 @@ de strings.
 Para incluir aspas simples, aspas duplas ou caractere de crase dentro de uma string
 você pode usar o caractere de escape (\).
 O caractere de escape deve ser incluído antes do caractere que você deseja incluir.
+
+
+-------- Operador lógico de negação --------
+
+O operador de negação (!) forneceo oposto de uma variável booleana.
+!true  retorna false.
+!false retorna true.
+
