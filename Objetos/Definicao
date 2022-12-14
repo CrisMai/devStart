@@ -38,3 +38,14 @@ Um objeto pode conter uma função. Ela é chamada de método.
 Quando o valor de uma chave do objeto é do tipo string, número, 
 booleano, matriz ou objeto, ela é chamada de propriedade.
 
+
+------- Matriz de objeto --------
+
+São um tipo de dados que nos permitem representar uma lista de 
+entidades do mundo real.
+Eemplos de matrizes de objetos: uma lista de usuários, uma lista 
+de receitas.
+
+Um erro comum ao trabalhar com matrizes de objetos é tentar acessar um
+valor dentro da matriz diretamente. O procedimento correto é acessar o 
+objeto primeiro, para depois acessar a chave que contém o valor desejado.
