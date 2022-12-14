@@ -1,0 +1,15 @@
+
+-------- Objeto --------
+
+Um objeto é um tipo de dados que permite agrupar várias 
+variáveis em uma única variável que contém chave e valor.
+Também podemos definir como uma coleção chave/valor.
+Os objetos são diferentes das matrizes, porque as matrizes 
+contém apenas valores, e os objetos contêm chaves e valores.
+
+Os objetos são importantes porque eles representam e descrevem um 
+determinado objeto, elemento, entidade, pessoa etc.
+
+Você pode adicionar um par de chave/valor a um objeto usando a mesma
+sintaxe que usaria para alterar um par existente:
+nomeDoObjeto.nomeDaChave = valor
