@@ -49,3 +49,10 @@ de receitas.
 Um erro comum ao trabalhar com matrizes de objetos é tentar acessar um
 valor dentro da matriz diretamente. O procedimento correto é acessar o 
 objeto primeiro, para depois acessar a chave que contém o valor desejado.
+
+
+----------- Iterando com matrizes de objeto --------
+
+Ao iterar em uma matriz de objetos, você obterá um objeto em cada
+iteração.
+Você pode usar o .forEach() e o .map() em matrizes de objetos.
