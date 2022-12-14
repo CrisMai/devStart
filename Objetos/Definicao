@@ -30,3 +30,11 @@ Ex: let professor = {
     }
 };
 
+
+------- Propriedade e método de objeto --------
+
+Um objeto pode conter uma função. Ela é chamada de método.
+
+Quando o valor de uma chave do objeto é do tipo string, número, 
+booleano, matriz ou objeto, ela é chamada de propriedade.
+
