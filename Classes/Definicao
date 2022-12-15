@@ -30,3 +30,11 @@ automaticamente toda vez que uma nova instância dessa classe é criada.
 O método constructor precisa estar dentro da definição da classe. 
 
 Assim como qualquer função, o método construtor pode aceitar parâmetros.
+
+
+-------- Variáveis de instância --------
+
+Uma variável de instância é uma variável que pertence a uma instância 
+específica de uma classe.
+A palavra-chave this se refere à instância atual da classe.
+O código para criar uma variável de instância é this.X.
