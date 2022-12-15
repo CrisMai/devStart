@@ -38,3 +38,14 @@ Uma variável de instância é uma variável que pertence a uma instância
 específica de uma classe.
 A palavra-chave this se refere à instância atual da classe.
 O código para criar uma variável de instância é this.X.
+
+
+------- Métodos de instância ---------
+
+O método de instância é aquele que pode ser chamado em uma 
+instância de uma classe.
+Usamos métodos de instância para agrupar funcionalidades com 
+base em sua lógica. Os métodos de instância podem usar variáveis
+de instância.
+
+
