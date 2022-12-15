@@ -1,0 +1,13 @@
+
+------- Classes ---------
+
+As classes permitem agrupar as variáveis e funções que
+descrevem uma entidade (produto, usuário, receita, etc).
+
+Dentro de uma classe, as variáveis são chamadas de propriedades e 
+as funções são chamadas de métodos.
+
+Você pode criar uma nova instância de uma classe usando a palavra-chave
+new.
+Ao criar uma nova instância de uma classe, você receberá de volta um objeto.
+A classe pode ser definida como um modelo para criar objetos.
