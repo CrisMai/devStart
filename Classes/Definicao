@@ -11,3 +11,13 @@ Você pode criar uma nova instância de uma classe usando a palavra-chave
 new.
 Ao criar uma nova instância de uma classe, você receberá de volta um objeto.
 A classe pode ser definida como um modelo para criar objetos.
+
+
+-------- Classe e instância ---------
+
+Uma classe é uma fábrica capaz de criar instâncias.
+Cada instância é diferente de qualquer outra instância, mesmo sendo
+criada a partir da mesma classe.
+
+As instâncias criadas a partir da classe são chamadas de objetos. 
+Esses objetos contém propriedades e métodos que descrevem uma entidade.
