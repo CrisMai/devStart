@@ -21,3 +21,12 @@ criada a partir da mesma classe.
 
 As instâncias criadas a partir da classe são chamadas de objetos. 
 Esses objetos contém propriedades e métodos que descrevem uma entidade.
+
+
+-------- Método construtor de classe --------
+
+O método construtor da classe, chamado de constructor(), é chamado
+automaticamente toda vez que uma nova instância dessa classe é criada.
+O método constructor precisa estar dentro da definição da classe. 
+
+Assim como qualquer função, o método construtor pode aceitar parâmetros.
