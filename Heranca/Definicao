@@ -1,0 +1,17 @@
+
+-------- Herança --------
+
+O conceito de herança de classe significa que uma classe 
+filha herda tudo de sua classe pai.
+A classe pai é aquela que contém as funcionalidades comuns 
+a ambas as classes.
+
+Herdar funcionalidades significa que você não precisa reescrever
+os métodos, porque eles serão herdados automaticamente.
+Para herdar de uma classe você usa a palavra-chave extends seguida 
+do nome da classe pai.
+
+Quando você cria uma classe filha ela herda todos os métodos da 
+instância de classe pai. Mas você pode reescrever os métodos que 
+desejar, para que eles tenham um comportamento diferente na classe
+filha.
